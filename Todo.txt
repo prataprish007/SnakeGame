@@ -1,0 +1,7 @@
+# TODO
+
+1. Use a map instead of an array
+
+2. You can need to explain the git commands.
+
+master --> can I use a different branch.  
