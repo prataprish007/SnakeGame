@@ -2,8 +2,9 @@
 *.class
 
 # IDE related garbage
-nbproject/
-build/
+nbproject
+build
+.idea
 
 # Log file
 *.log
